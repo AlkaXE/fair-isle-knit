@@ -6,4 +6,4 @@ About knitout: https://textiles-lab.github.io/knitout/knitout.html
 
 Instructions for use in code.
 
-About fair-isle-x.k: 1-3 are failed iterations, 4 is successful. Images of results in slideshow.
+About fair-isle-x.k: 1-3 are failed iterations, 4 is successful. Images of results and details in slideshow.
